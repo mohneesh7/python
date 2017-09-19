@@ -1,7 +1,7 @@
 ### python
 Some __Interesting__ Python Codes : 
 
-   _Caution_ 
+   _Caution_ :
 
    		_May contain boring, simple, and not so impressive codes._
 

@@ -1,3 +1,14 @@
+# A simple text editor using simple file operations.
+
+# Author      : Mohneesh S
+# Date		  : Tue Sep 19, 22:54
+# Program     : Text Editor using file read(), write() operations.
+# Description : Follow on-console instructions to get to know the program better,
+#				for,now only writing once is permitted, will improve it, feel free
+#				fork.
+
+
+
 import time,os
 # Function for creating a file. Takes file name as input.
 def create_new(file_name):
