@@ -3,7 +3,7 @@ Some __Interesting__ Python Codes :
 
    _Caution_ :
 
-   		_May contain boring, simple, and not so impressive codes._
+   		May contain boring, simple, and not so impressive codes.
 
 - __Pig Latin Converter__
  
