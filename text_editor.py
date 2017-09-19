@@ -12,7 +12,7 @@
 import time,os
 # Function for creating a file. Takes file name as input.
 def create_new(file_name):
-	f = open(file_name,'w')
+	f = open(file_name,'a+')
 	write_file(file_name)
 	f.close()
 
@@ -25,7 +25,7 @@ def read_only(file_name):
 
 # Writes the content inputted through console to the file_name provided
 def write_file(file_name):
-	f = open(file_name,'w')
+	f = open(file_name,'a+')
 	while(True):
 		s = raw_input()
 		if(s):
