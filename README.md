@@ -1,7 +1,7 @@
 ### python
 Some __Interesting__ Python Codes : 
 
-   ** Caution ** 
+   _Caution_ 
    		```may contain boring, simple, and not so impressive codes ```
 
 - Pig Latin Converter
