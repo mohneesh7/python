@@ -5,7 +5,7 @@
 # Program     : Text Editor using file read(), write() operations.
 # Description : Follow on-console instructions to get to know the program better,
 #				for,now only writing once is permitted, will improve it, feel free
-#				fork.
+#				fork
 
 
 
