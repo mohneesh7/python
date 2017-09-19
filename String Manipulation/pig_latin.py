@@ -1,12 +1,14 @@
+# A Pig Latin Converter Code
+# Interesting ? Of_Course_Not
 # mohneesh7
 
 # Author : Mohneesh S
 # Date   : Tue Sep 19, 13:59
 # Program: Pig Latin Converter
-#		   Using Functional Programming
-		   
-#		   -> Raw input.
-#		   -> Will add reading from files.
+#		   Using Functional Programming		   
+
+# Description : Enter any Sentence and press [ENTER], 
+#				the following output will give you the [ig-pay atin-lay] version of pig latin.
 
 
 def pig_latiner(a):
